@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydata/numexpr/commit/d7c975073be01045010a71206f6c85fff3416a35",
       "git:hexsha": "d7c975073be01045010a71206f6c85fff3416a35",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydata/numexpr/commit/7449bcc372a6e40d9b74c6236f0ea75cd125e9af",
