@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "numexpr",
+  "versions": [
+    {
+      "commit": "d7c975073be01045010a71206f6c85fff3416a35",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:55:02.149726+00:00"
+    }
+  ]
+}
